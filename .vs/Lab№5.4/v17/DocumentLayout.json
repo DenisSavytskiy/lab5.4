@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab\u21165.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E7CAB2-255C-4780-89E3-5E39188BAF1E}|Lab\u21165.4\\Lab\u21165.4.vcxproj|C:\\Users\\User\\source\\repos\\Lab\u21165.4\\Lab\u21165.4\\Lab\u21165.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2E7CAB2-255C-4780-89E3-5E39188BAF1E}|Lab\u21165.4\\Lab\u21165.4.vcxproj|solutionrelative:Lab\u21165.4\\Lab\u21165.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5443A-E00F-461A-A5B5-2E15AB4EC1F1}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\Lab\u21165.4\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F5443A-E00F-461A-A5B5-2E15AB4EC1F1}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab\u21165.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab\u21165.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T23:19:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab\u21165.4.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab\u21165.4\\Lab\u21165.4\\Lab\u21165.4.cpp",
+              "RelativeDocumentMoniker": "Lab\u21165.4\\Lab\u21165.4.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab\u21165.4\\Lab\u21165.4\\Lab\u21165.4.cpp",
+              "RelativeToolTip": "Lab\u21165.4\\Lab\u21165.4.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T22:17:22.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
